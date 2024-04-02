@@ -1,0 +1,16 @@
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Application.deps.json
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Application.dll
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Application.pdb
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Communication.dll
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\bin\Debug\net8.0\Petfolio.Communication.pdb
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.sourcelink.json
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.32F76676.Up2Date
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.dll
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\obj\Debug\net8.0\refint\Petfolio.Application.dll
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.pdb
+C:\Users\guilh\Documents\Projects\Petfolio\Petfolio.Application\obj\Debug\net8.0\ref\Petfolio.Application.dll
