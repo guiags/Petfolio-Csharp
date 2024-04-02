@@ -1,4 +1,3 @@
 Appsettings = chaves de banco sms etc
 appsetigs = development somente debug, production relase
-
 Pasta Communication -> request -> Criar as classes que vao receber os valores dos requests Ex: RequestRegisterUserJson
