@@ -7,16 +7,28 @@
       "RelativeMoniker": "D:0:0:{FC4E896B-8D34-4905-98F9-127796585E5A}|Petfolio.API\\Petfolio.API.csproj|solutionrelative:petfolio.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ED5BC09A-173E-4BD1-807B-EE57D3C829DF}|Petfolio.Application\\Petfolio.Application.csproj|c:\\users\\guilh\\documents\\projects\\petfolio\\petfolio.application\\usecases\\pets\\delete\\deletepetbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5BC09A-173E-4BD1-807B-EE57D3C829DF}|Petfolio.Application\\Petfolio.Application.csproj|solutionrelative:petfolio.application\\usecases\\pets\\delete\\deletepetbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5BC09A-173E-4BD1-807B-EE57D3C829DF}|Petfolio.Application\\Petfolio.Application.csproj|c:\\users\\guilh\\documents\\projects\\petfolio\\petfolio.application\\usecases\\pets\\getbyid\\getpetbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5BC09A-173E-4BD1-807B-EE57D3C829DF}|Petfolio.Application\\Petfolio.Application.csproj|solutionrelative:petfolio.application\\usecases\\pets\\getbyid\\getpetbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC42C7-50AC-468C-A218-EBE665C788C1}|Petfolio.Communication\\Petfolio.Communication.csproj|c:\\users\\guilh\\documents\\projects\\petfolio\\petfolio.communication\\responses\\responsepetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC42C7-50AC-468C-A218-EBE665C788C1}|Petfolio.Communication\\Petfolio.Communication.csproj|solutionrelative:petfolio.communication\\responses\\responsepetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED5BC09A-173E-4BD1-807B-EE57D3C829DF}|Petfolio.Application\\Petfolio.Application.csproj|c:\\users\\guilh\\documents\\projects\\petfolio\\petfolio.application\\usecases\\pets\\getall\\getallpetsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED5BC09A-173E-4BD1-807B-EE57D3C829DF}|Petfolio.Application\\Petfolio.Application.csproj|solutionrelative:petfolio.application\\usecases\\pets\\getall\\getallpetsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30EC42C7-50AC-468C-A218-EBE665C788C1}|Petfolio.Communication\\Petfolio.Communication.csproj|c:\\users\\guilh\\documents\\projects\\petfolio\\petfolio.communication\\responses\\responseallpetsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30EC42C7-50AC-468C-A218-EBE665C788C1}|Petfolio.Communication\\Petfolio.Communication.csproj|solutionrelative:petfolio.communication\\responses\\responseallpetsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30EC42C7-50AC-468C-A218-EBE665C788C1}|Petfolio.Communication\\Petfolio.Communication.csproj|c:\\users\\guilh\\documents\\projects\\petfolio\\petfolio.communication\\responses\\responseregisteredpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC42C7-50AC-468C-A218-EBE665C788C1}|Petfolio.Communication\\Petfolio.Communication.csproj|solutionrelative:petfolio.communication\\responses\\responseregisteredpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30EC42C7-50AC-468C-A218-EBE665C788C1}|Petfolio.Communication\\Petfolio.Communication.csproj|c:\\users\\guilh\\documents\\projects\\petfolio\\petfolio.communication\\responses\\responseshortpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30EC42C7-50AC-468C-A218-EBE665C788C1}|Petfolio.Communication\\Petfolio.Communication.csproj|solutionrelative:petfolio.communication\\responses\\responseshortpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30EC42C7-50AC-468C-A218-EBE665C788C1}|Petfolio.Communication\\Petfolio.Communication.csproj|c:\\users\\guilh\\documents\\projects\\petfolio\\petfolio.communication\\responses\\responseallpetsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC42C7-50AC-468C-A218-EBE665C788C1}|Petfolio.Communication\\Petfolio.Communication.csproj|solutionrelative:petfolio.communication\\responses\\responseallpetsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,45 +38,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GetAllPetsUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Application\\UseCases\\Pets\\GetAll\\GetAllPetsUseCase.cs",
-              "RelativeDocumentMoniker": "Petfolio.Application\\UseCases\\Pets\\GetAll\\GetAllPetsUseCase.cs",
-              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Application\\UseCases\\Pets\\GetAll\\GetAllPetsUseCase.cs",
-              "RelativeToolTip": "Petfolio.Application\\UseCases\\Pets\\GetAll\\GetAllPetsUseCase.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAdAAAA",
+              "Title": "DeletePetByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Application\\UseCases\\Pets\\Delete\\DeletePetByIdUseCase.cs",
+              "RelativeDocumentMoniker": "Petfolio.Application\\UseCases\\Pets\\Delete\\DeletePetByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Application\\UseCases\\Pets\\Delete\\DeletePetByIdUseCase.cs",
+              "RelativeToolTip": "Petfolio.Application\\UseCases\\Pets\\Delete\\DeletePetByIdUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T09:35:31.87Z",
+              "WhenOpened": "2024-04-04T01:44:11.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ResponseAllPetsJson.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Communication\\Responses\\ResponseAllPetsJson.cs",
-              "RelativeDocumentMoniker": "Petfolio.Communication\\Responses\\ResponseAllPetsJson.cs",
-              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Communication\\Responses\\ResponseAllPetsJson.cs",
-              "RelativeToolTip": "Petfolio.Communication\\Responses\\ResponseAllPetsJson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Title": "GetPetByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Application\\UseCases\\Pets\\GetById\\GetPetByIdUseCase.cs",
+              "RelativeDocumentMoniker": "Petfolio.Application\\UseCases\\Pets\\GetById\\GetPetByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Application\\UseCases\\Pets\\GetById\\GetPetByIdUseCase.cs",
+              "RelativeToolTip": "Petfolio.Application\\UseCases\\Pets\\GetById\\GetPetByIdUseCase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwA0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T09:30:52.875Z",
+              "WhenOpened": "2024-04-04T01:36:09.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResponseShortPetJson.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Communication\\Responses\\ResponseShortPetJson.cs",
-              "RelativeDocumentMoniker": "Petfolio.Communication\\Responses\\ResponseShortPetJson.cs",
-              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Communication\\Responses\\ResponseShortPetJson.cs",
-              "RelativeToolTip": "Petfolio.Communication\\Responses\\ResponseShortPetJson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "ResponseRegisteredPetJson.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Communication\\Responses\\ResponseRegisteredPetJson.cs",
+              "RelativeDocumentMoniker": "Petfolio.Communication\\Responses\\ResponseRegisteredPetJson.cs",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Communication\\Responses\\ResponseRegisteredPetJson.cs",
+              "RelativeToolTip": "Petfolio.Communication\\Responses\\ResponseRegisteredPetJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T09:24:15.438Z",
+              "WhenOpened": "2024-04-04T01:31:19.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllPetsUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Application\\UseCases\\Pets\\GetAll\\GetAllPetsUseCase.cs",
+              "RelativeDocumentMoniker": "Petfolio.Application\\UseCases\\Pets\\GetAll\\GetAllPetsUseCase.cs",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Application\\UseCases\\Pets\\GetAll\\GetAllPetsUseCase.cs",
+              "RelativeToolTip": "Petfolio.Application\\UseCases\\Pets\\GetAll\\GetAllPetsUseCase.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:35:31.87Z",
               "EditorCaption": ""
             },
             {
@@ -75,10 +100,35 @@
               "RelativeDocumentMoniker": "Petfolio.API\\Controllers\\PetController.cs",
               "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.API\\Controllers\\PetController.cs",
               "RelativeToolTip": "Petfolio.API\\Controllers\\PetController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAowDAAAAAbAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwEgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T08:48:15.262Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponsePetJson.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Communication\\Responses\\ResponsePetJson.cs",
+              "RelativeDocumentMoniker": "Petfolio.Communication\\Responses\\ResponsePetJson.cs",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Communication\\Responses\\ResponsePetJson.cs",
+              "RelativeToolTip": "Petfolio.Communication\\Responses\\ResponsePetJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:32:44.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseAllPetsJson.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Communication\\Responses\\ResponseAllPetsJson.cs",
+              "RelativeDocumentMoniker": "Petfolio.Communication\\Responses\\ResponseAllPetsJson.cs",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Petfolio\\Petfolio.Communication\\Responses\\ResponseAllPetsJson.cs",
+              "RelativeToolTip": "Petfolio.Communication\\Responses\\ResponseAllPetsJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:30:52.875Z"
             }
           ]
         }

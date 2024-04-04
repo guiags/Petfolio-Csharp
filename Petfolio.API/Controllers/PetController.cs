@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Petfolio.Application.UseCases.Pets.Delete;
 using Petfolio.Application.UseCases.Pets.GetAll;
+using Petfolio.Application.UseCases.Pets.GetById;
 using Petfolio.Application.UseCases.Pets.Register;
 using Petfolio.Application.UseCases.Pets.Update;
 using Petfolio.Communication.Requests;
@@ -12,7 +14,7 @@ namespace Petfolio.API.Controllers;
 public class PetController : ControllerBase
 {
     [HttpPost]
-    [ProducesResponseType(typeof(ResponsePetJson), StatusCodes.Status201Created)]
+    [ProducesResponseType(typeof(ResponseRegisteredPetJson), StatusCodes.Status201Created)]
     [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status400BadRequest)]//Caso de erro
     public IActionResult Register([FromBody] RequestPetJson request)
     {
@@ -49,4 +51,26 @@ public class PetController : ControllerBase
         return NoContent();
     }
 
+
+    [HttpGet]
+    [Route("{id}")]
+    [ProducesResponseType(typeof(ResponsePetJson), StatusCodes.Status200OK)]//ResponseAllPetsJson nada mais é do que uma list de ResponseShortPetJSon apenas por ser mais aceito, poderia ser simplemnte a lista noa tributo desta parte
+    [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status404NotFound)]
+    public IActionResult GetId(int id)
+    {
+        var useCase = new GetPetByIdUseCase();
+        var response = useCase.Execute(id);
+        return Ok(response);
+    }
+
+    [HttpDelete]
+    [Route("{id}")]
+    [ProducesResponseType(typeof(ResponsePetJson), StatusCodes.Status204NoContent)]//ResponseAllPetsJson nada mais é do que uma list de ResponseShortPetJSon apenas por ser mais aceito, poderia ser simplemnte a lista noa tributo desta parte
+    [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status404NotFound)]
+    public IActionResult Delete(int id)
+    {
+        var useCase = new DeletePetByIdUseCase();
+        useCase.Execute(id);
+        return NoContent();
+    }
 }
