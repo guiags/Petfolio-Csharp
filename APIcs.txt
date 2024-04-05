@@ -4,4 +4,4 @@ Pasta Communication -> request -> Criar as classes que vao receber os valores do
 No prejeto Application deverão constar as regras de negocio, onde sera feita consulta/modificação no banco e o retorno da resposta para o controller
 Classe ResponseErrorsJson criada para definir as listas de erros ou incosistencias da requisição caso existam
 ResponseAllPetsJson nada mais é do que uma list de ResponseShortPetJSon apenas por ser mais aceito, poderia ser simplemnte a lista noa tributo desta parte
-
+UseCase = Regras de negocio
